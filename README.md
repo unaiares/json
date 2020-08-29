@@ -1,2 +1,2 @@
 # json
-json para TFM
+.json files for Master´s Thesis
